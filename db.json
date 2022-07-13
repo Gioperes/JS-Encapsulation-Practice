@@ -2,16 +2,19 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
-      "bread": "Sourdough",
+      "name": "Avery's Sandwich okkkkkkk",
+      "bread": "Gluten Free",
       "ingredients": [
         "Cheddar Cheese",
         "Mayo",
-        "Ham",
-        "Bacon",
-        "Lettuce",
         "Tomatoes"
       ]
+    },
+    {
+      "id": 2,
+      "name": "Unnamed",
+      "bread": "White",
+      "ingredients": []
     }
   ],
   "ingredients": [
